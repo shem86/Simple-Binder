@@ -18,5 +18,5 @@ define('binder', ['jquery'], function ($) {
 		return this.eventAggregator;
 	}
 
-    return Binder;
+	return Binder;
 });
