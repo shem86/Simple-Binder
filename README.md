@@ -5,5 +5,7 @@
 
 
 dependencies:
+
 jquery ~1.11.0
+
 requirejs ~2.1.14
